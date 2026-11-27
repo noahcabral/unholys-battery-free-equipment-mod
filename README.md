@@ -6,6 +6,8 @@ Run headlamps, PDAs, detectors, and night vision without carrying spare batterie
 
 *The Great Swamps in Romeo. This session verified that an equipped headlamp turned on and its charge held through a scripted drain attempt.*
 
+[Downloads and release notes](https://github.com/noahcabral/unholys-battery-free-equipment-mod/releases)
+
 ## Compatibility
 
 | Game | Coverage | Verification |
